@@ -1,10 +1,9 @@
 {
  "alg": "ed25519",
  "keyId": "7c700a5f6c27de94",
- "sig": "llrqyFe1uE29+A93Y1ToOrNy1waeaPp86ZOLjlpvn64Jp63ss14To+MKKKadkdhUeEl/aqV3IUdycvVlUfJ/Bw==",
+ "sig": "yULOVS7uAYjEtfidUC0dXtM1WTscag2Fnoy3VIULPy2ih7XWP5A3lWPIKzNWk1byKZSSCmaCXBHS0tduAIafCw==",
  "catalog": {
-  "_note": "placeholder: الصيغة الحقيقية تُحدَّد في المرحلة التالية",
-  "schema": 0,
+  "schema": 1,
   "items": []
  }
 }
